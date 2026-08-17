@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-banner-pixel.png">
-    <img src="./assets/profile-banner-pixel.gif" width="100%" alt="Пиксельная анимация: Десятый Доктор прилетает на TARDIS в Уэко Мундо, уворачивается от Cero Улькиорры и возвращается в вихрь времени">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-banner-hq.png">
+    <img src="./assets/profile-banner-hq.gif" width="100%" alt="Детализированная пиксельная анимация: Десятый Доктор прилетает на TARDIS в Уэко Мундо, уворачивается от Cero Улькиорры и возвращается в вихрь времени">
   </picture>
 </p>
 
